@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url(https://static.vecteezy.com/system/resources/previews/035/668/410/non_2x/ai-generated-black-abstract-abstract-triangle-black-abstract-backgrounds-free-photo.jpg) no-repeat center center fixed;
+  background-size: cover;
 }
 
 code {
